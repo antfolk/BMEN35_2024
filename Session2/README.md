@@ -1,6 +1,6 @@
 # BMEN35 Session 2
 
-This folder contains four notebooks. The first notebook shows you Decision Trees. The second notebook shows the basics k-nearest neighbour. The third notebooks shows the basics of library sklearn. The fourth notebook is your assignment. Fill it in and submit in Canvas. 
+This folder contains four notebooks. The first notebook (Ex5) shows you Decision Trees. The second notebook (Ex6) shows the basics k-nearest neighbour. The third notebooks (Ex7) shows the basics of library sklearn. The fourth notebook (Ex8) is your assignment. Fill it in and submit in Canvas. 
 
 REMEMBER TO FILL IN YOUR NAME IN THE NOTEBOOK YOU HAND IN.
 
